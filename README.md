@@ -12,7 +12,7 @@ What do you need:
 * SUMO v0.29
 * OMNET++ 5.1.1
 
-anetSim
+VanetSim
 ========
 
 VANETsim: A simulator for security and privacy concepts in VANETs
